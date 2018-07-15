@@ -4,7 +4,7 @@ commit new
 
 commit2 new
 
-commit3
+commit3 new
 
 commit4
 
