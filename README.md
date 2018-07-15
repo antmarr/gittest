@@ -2,7 +2,7 @@
 
 commit new
 
-commit2
+commit2 new
 
 commit3
 
