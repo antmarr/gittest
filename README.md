@@ -1,6 +1,6 @@
 # gittest
 
-commit
+commit new
 
 commit2
 
