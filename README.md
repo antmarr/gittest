@@ -6,7 +6,7 @@ commit2 new
 
 commit3 new
 
-commit4
+commit4 new
 
 commit5
 
